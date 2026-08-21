@@ -1,0 +1,139 @@
+{
+  "categories": {
+    "programming_languages": {
+      "label_fr": "Langages de programmation",
+      "label_en": "Programming languages",
+      "skills": {
+        "python": ["python"],
+        "java": ["java"],
+        "javascript": ["javascript", "js"],
+        "typescript": ["typescript", "ts"],
+        "c": ["c "],
+        "c++": ["c++", "cpp"],
+        "c#": ["c#", "csharp"],
+        "php": ["php"],
+        "sql": ["sql"],
+        "r": ["r "],
+        "matlab": ["matlab"],
+        "go": ["golang", "go "],
+        "kotlin": ["kotlin"],
+        "swift": ["swift"],
+        "rust": ["rust"],
+        "bash": ["bash", "shell scripting", "scripts shell"]
+      }
+    },
+    "data_science_ml": {
+      "label_fr": "Data science et IA",
+      "label_en": "Data science & AI",
+      "skills": {
+        "machine learning": ["machine learning", "apprentissage automatique", "apprentissage machine", "ml"],
+        "deep learning": ["deep learning", "apprentissage profond", "dl"],
+        "nlp": ["nlp", "natural language processing", "traitement automatique du langage", "traitement du langage naturel", "tal"],
+        "computer vision": ["computer vision", "vision par ordinateur"],
+        "data analysis": ["data analysis", "analyse de données", "analyse de donnees", "data analytics"],
+        "data visualization": ["data visualization", "visualisation de données", "dataviz"],
+        "statistics": ["statistics", "statistiques"],
+        "tensorflow": ["tensorflow"],
+        "pytorch": ["pytorch"],
+        "scikit-learn": ["scikit-learn", "sklearn", "scikit learn"],
+        "pandas": ["pandas"],
+        "numpy": ["numpy"],
+        "spacy": ["spacy"],
+        "hugging face": ["hugging face", "huggingface", "transformers"],
+        "opencv": ["opencv"],
+        "power bi": ["power bi", "powerbi"],
+        "tableau": ["tableau"],
+        "big data": ["big data", "données massives"],
+        "spark": ["spark", "pyspark"],
+        "llm": ["llm", "large language models", "grands modèles de langage", "generative ai", "ia générative", "ia generative"]
+      }
+    },
+    "web_mobile": {
+      "label_fr": "Développement web et mobile",
+      "label_en": "Web & mobile development",
+      "skills": {
+        "html": ["html", "html5"],
+        "css": ["css", "css3"],
+        "react": ["react", "reactjs", "react.js"],
+        "angular": ["angular"],
+        "vue": ["vue", "vuejs", "vue.js"],
+        "node.js": ["node.js", "nodejs", "node js"],
+        "django": ["django"],
+        "flask": ["flask"],
+        "fastapi": ["fastapi"],
+        "spring": ["spring", "spring boot"],
+        "laravel": ["laravel"],
+        "rest api": ["rest api", "api rest", "restful", "apis rest"],
+        "flutter": ["flutter"],
+        "react native": ["react native"],
+        "android": ["android"],
+        "wordpress": ["wordpress"]
+      }
+    },
+    "databases_devops": {
+      "label_fr": "Bases de données et DevOps",
+      "label_en": "Databases & DevOps",
+      "skills": {
+        "mysql": ["mysql"],
+        "postgresql": ["postgresql", "postgres"],
+        "mongodb": ["mongodb", "mongo"],
+        "oracle": ["oracle"],
+        "sqlite": ["sqlite"],
+        "redis": ["redis"],
+        "docker": ["docker"],
+        "kubernetes": ["kubernetes", "k8s"],
+        "git": ["git", "github", "gitlab"],
+        "ci/cd": ["ci/cd", "cicd", "intégration continue", "integration continue", "continuous integration"],
+        "linux": ["linux", "ubuntu"],
+        "aws": ["aws", "amazon web services"],
+        "azure": ["azure"],
+        "gcp": ["gcp", "google cloud"],
+        "jenkins": ["jenkins"]
+      }
+    },
+    "soft_skills": {
+      "label_fr": "Compétences comportementales",
+      "label_en": "Soft skills",
+      "skills": {
+        "teamwork": ["teamwork", "travail en équipe", "travail en equipe", "esprit d'équipe", "esprit d'equipe", "team player", "collaboration"],
+        "communication": ["communication"],
+        "problem solving": ["problem solving", "problem-solving", "résolution de problèmes", "resolution de problemes"],
+        "leadership": ["leadership"],
+        "project management": ["project management", "gestion de projet", "gestion de projets"],
+        "time management": ["time management", "gestion du temps"],
+        "adaptability": ["adaptability", "adaptabilité", "adaptabilite", "flexibilité", "flexibilite"],
+        "autonomy": ["autonomy", "autonomie", "autonome", "self-motivated"],
+        "creativity": ["creativity", "créativité", "creativite"],
+        "critical thinking": ["critical thinking", "esprit critique", "esprit d'analyse", "analytical thinking"],
+        "rigor": ["rigor", "rigueur", "rigoureux", "attention to detail"],
+        "agile": ["agile", "scrum", "kanban", "méthodes agiles", "methodes agiles"]
+      }
+    },
+    "languages_spoken": {
+      "label_fr": "Langues",
+      "label_en": "Spoken languages",
+      "skills": {
+        "french": ["french", "français", "francais"],
+        "english": ["english", "anglais"],
+        "arabic": ["arabic", "arabe"],
+        "german": ["german", "allemand"],
+        "spanish": ["spanish", "espagnol"],
+        "italian": ["italian", "italien"]
+      }
+    },
+    "office_tools": {
+      "label_fr": "Outils bureautiques",
+      "label_en": "Office tools",
+      "skills": {
+        "excel": ["excel", "microsoft excel"],
+        "word": ["word", "microsoft word"],
+        "powerpoint": ["powerpoint", "power point"],
+        "ms office": ["ms office", "microsoft office", "pack office", "office 365"],
+        "jira": ["jira"],
+        "figma": ["figma"],
+        "photoshop": ["photoshop"],
+        "latex": ["latex"]
+      }
+    }
+  }
+}
